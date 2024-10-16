@@ -24,4 +24,4 @@ jobs:
         with:
           push: true
           platforms: linux/amd64,linux/arm64 # 部署多平台
-          tags: cksspk/jetbrains-help:latest
+          tags: cksspk/ja-help:latest
